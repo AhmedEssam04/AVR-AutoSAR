@@ -1,24 +1,9 @@
- /******************************************************************************
- *
- * Module: Det
- *
- * File Name: Det.c
- *
- * Description:  Det stores the development errors reported by other modules.
- *
- * Author: Mohamed Tarek
- ******************************************************************************/
+/********************************************
+ *Author:		Ahmed Essam Kamal   *
+ *File Name:		Det.c	    *
+ *Created on:           May 21, 2019             *
+ *Component:		DIO_Driver_AutoSAR	    *
+ *File Version:		v1.0.0		    *
+ ********************************************/
 
-#include "Det.h"
-
-void Det_ReportError( uint16 ModuleId,
-                      uint8 InstanceId,
-                      uint8 ApiId,
-		      uint8 ErrorId )
-{
-	while(1)  /* lama ye7sal error yewa2af 2l system*/
-	{
-
-	}
-}
 
